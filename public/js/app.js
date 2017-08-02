@@ -14,7 +14,7 @@ function showNames(){
   div.style.background='url("https://cdn.pixabay.com/photo/2015/08/23/18/51/love-903163_960_720.jpg")';
   div.style.background= 'yellow';
   div.style.textAlign='center';
-  div.innerHTML ='i don\'t feel like doing this.';
+  div.innerHTML ='meow woof.';
 
   document.body.appendChild(div);
 
